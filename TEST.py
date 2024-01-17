@@ -1,1 +1,1 @@
-print("파이썬TEST")
+print("파이썬TEST / github 연결")
