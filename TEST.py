@@ -1,2 +1,3 @@
-print("파이썬TEST / github 연결")
-print("git 버전2")
+a = [1,2,3,4,[6,7,8]] #리스트 자료
+print(a)
+print(a[-1][2])
