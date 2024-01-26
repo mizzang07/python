@@ -54,8 +54,25 @@ for i in A :
 average = total/len(A)
 print(average)
 
-"""
+
 # 리스트컴프리헨션
 number = [1,2,3,4,5]
 result = [n*2 for n in number if n%2==1]
 print(result)
+print("dfkdsnfksdnfk")
+
+
+# 10X18제곱+2X11 
+a= 10*18**2+2*11
+a=14//4
+a=14%4
+print(a)
+
+
+a = "You need python"
+print(len(a))
+"""
+
+#문자열 포맷팅
+a = "I eat %d apple" %3
+print(a)
