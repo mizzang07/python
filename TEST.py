@@ -11,3 +11,7 @@ print(b in a)
 print(a.append(6))
 print(a.count(6))
 print(a)
+
+import sys
+
+print(sys.path)
